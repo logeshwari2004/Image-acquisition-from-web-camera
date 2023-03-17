@@ -12,7 +12,9 @@ iv) Rotate and display the video
 ## Software Used
 Anaconda - Python 3.7
 ## Algorithm
+```
 ##Step 1:
+
 Import cv2 and capture the video using cv2.VideoCapture(0)
 
 ##Step 2:
@@ -26,6 +28,7 @@ Display the image until the loop gets over
 
 ##Step 5:
 Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180)
+```
 
 ## Program:
 ``` Python
